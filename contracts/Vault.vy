@@ -31,6 +31,8 @@
     withdrawn by users. There are no restrictions on withdrawals above what is
     expected under Normal Operation.
 
+add more yield and moon YFI and KP3R
+
     For further details, please refer to the specification:
     https://github.com/iearn-finance/yearn-vaults/blob/master/SPECIFICATION.md
 """
